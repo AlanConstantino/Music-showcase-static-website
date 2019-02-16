@@ -1,3 +1,3 @@
 # AlanConstantino.github.io
 
-I made this website with the intention of practicing web development.
+Basic HTML website that showcases a couple of my favorite songs.
