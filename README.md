@@ -1,5 +1,3 @@
-# AlanConstantino.github.io
-
-https://alanconstantino.github.io/
+# Music-showcase-static-website
 
 Website written in HTML with embeded youtube videos.
